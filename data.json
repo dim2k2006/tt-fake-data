@@ -112,6 +112,127 @@
                 "isCurrentConversionGreaterThanPrevious": false,
                 "income": 350000,
                 "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Garasjeport",
+                "icon": "ico-garasjeport",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Huskatalog",
+                "icon": "ico-huskatalog",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Radon",
+                "icon": "ico-radon",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Regnskapsfoerer",
+                "icon": "ico-regnskapsfoerer",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Smaalaan",
+                "icon": "ico-smaalaan",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Solskjerming",
+                "icon": "ico-solskjerming",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Takstmann",
+                "icon": "ico-takstmann",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Utleiemegler",
+                "icon": "ico-utleiemegler",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Varmepumpe",
+                "icon": "ico-varmepumpe",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Varmepumpeservice",
+                "icon": "ico-varmepumpeservice",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
+            },
+            {
+                "title": "Vinduer",
+                "icon": "ico-vinduer",
+                "amount": 100,
+                "fullConversion": 20,
+                "fewCustomersConversion": 30,
+                "noCustomersConversion": 50,
+                "isCurrentConversionGreaterThanPrevious": false,
+                "income": 350000,
+                "isCurrentIncomeGreaterThanPrevious": false
             }
         ]
     },
