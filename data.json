@@ -11,7 +11,7 @@
                 "fewCustomersConversion": 40,
                 "noCustomersConversion": 15,
                 "isCurrentConversionGreaterThanPrevious": true,
-                "income": 350000,
+                "income": "350000.34",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -22,7 +22,7 @@
                 "fewCustomersConversion": 10,
                 "noCustomersConversion": 20,
                 "isCurrentConversionGreaterThanPrevious": true,
-                "income": 486034,
+                "income": "486034.87",
                 "isCurrentIncomeGreaterThanPrevious": true
             },
             {
@@ -33,7 +33,7 @@
                 "fewCustomersConversion": 30,
                 "noCustomersConversion": 50,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 350000,
+                "income": "350000.21",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -44,7 +44,7 @@
                 "fewCustomersConversion": 30,
                 "noCustomersConversion": 50,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 350000,
+                "income": "350000.99",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -55,7 +55,7 @@
                 "fewCustomersConversion": 30,
                 "noCustomersConversion": 50,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 350000,
+                "income": "350000.56",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -66,7 +66,7 @@
                 "fewCustomersConversion": 30,
                 "noCustomersConversion": 50,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 350000,
+                "income": "350000.34",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -77,7 +77,7 @@
                 "fewCustomersConversion": 30,
                 "noCustomersConversion": 50,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 350000,
+                "income": "350000.00",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -88,7 +88,7 @@
                 "fewCustomersConversion": 15,
                 "noCustomersConversion": 30,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 350000,
+                "income": "350000.87",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -99,7 +99,7 @@
                 "fewCustomersConversion": 30,
                 "noCustomersConversion": 50,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 350000,
+                "income": "350000",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -110,7 +110,7 @@
                 "fewCustomersConversion": 4,
                 "noCustomersConversion": 2,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 10500.3,
+                "income": "10500.30",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -121,7 +121,7 @@
                 "fewCustomersConversion": 2,
                 "noCustomersConversion": 2,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 5400,
+                "income": "5400.03",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -132,7 +132,7 @@
                 "fewCustomersConversion": 4,
                 "noCustomersConversion": 3,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 6100.85,
+                "income": "6100.85",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -143,7 +143,7 @@
                 "fewCustomersConversion": 3,
                 "noCustomersConversion": 3,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 2000,
+                "income": "2000",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -154,7 +154,7 @@
                 "fewCustomersConversion": 6,
                 "noCustomersConversion": 2,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 4000,
+                "income": "4000",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -165,7 +165,7 @@
                 "fewCustomersConversion": 2,
                 "noCustomersConversion": 5,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 7443,
+                "income": "7443.54",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -176,7 +176,7 @@
                 "fewCustomersConversion": 5,
                 "noCustomersConversion": 10,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 1500,
+                "income": "1500",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -187,7 +187,7 @@
                 "fewCustomersConversion": 8,
                 "noCustomersConversion": 4,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 3200.34,
+                "income": "3200.34",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -198,7 +198,7 @@
                 "fewCustomersConversion": 15,
                 "noCustomersConversion": 5,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 3123.45,
+                "income": "3123.45",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -209,7 +209,7 @@
                 "fewCustomersConversion": 4,
                 "noCustomersConversion": 6,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 2300,
+                "income": "2300",
                 "isCurrentIncomeGreaterThanPrevious": false
             },
             {
@@ -220,7 +220,7 @@
                 "fewCustomersConversion": 5,
                 "noCustomersConversion": 3,
                 "isCurrentConversionGreaterThanPrevious": false,
-                "income": 2500,
+                "income": "2500",
                 "isCurrentIncomeGreaterThanPrevious": false
             }
         ]
